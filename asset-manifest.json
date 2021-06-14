@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://aniyy117.github.io/csb-blyqk/static/css/main.771c87cb.chunk.css",
+    "main.js": "https://aniyy117.github.io/csb-blyqk/static/js/main.561f3850.chunk.js",
+    "main.js.map": "https://aniyy117.github.io/csb-blyqk/static/js/main.561f3850.chunk.js.map",
+    "runtime-main.js": "https://aniyy117.github.io/csb-blyqk/static/js/runtime-main.d7835dd1.js",
+    "runtime-main.js.map": "https://aniyy117.github.io/csb-blyqk/static/js/runtime-main.d7835dd1.js.map",
+    "static/js/2.c3255d16.chunk.js": "https://aniyy117.github.io/csb-blyqk/static/js/2.c3255d16.chunk.js",
+    "static/js/2.c3255d16.chunk.js.map": "https://aniyy117.github.io/csb-blyqk/static/js/2.c3255d16.chunk.js.map",
+    "index.html": "https://aniyy117.github.io/csb-blyqk/index.html",
+    "static/css/main.771c87cb.chunk.css.map": "https://aniyy117.github.io/csb-blyqk/static/css/main.771c87cb.chunk.css.map",
+    "static/js/2.c3255d16.chunk.js.LICENSE.txt": "https://aniyy117.github.io/csb-blyqk/static/js/2.c3255d16.chunk.js.LICENSE.txt",
+    "static/media/apple.ab4de0ac.svg": "https://aniyy117.github.io/csb-blyqk/static/media/apple.ab4de0ac.svg",
+    "static/media/diamont_logo.23536964.svg": "https://aniyy117.github.io/csb-blyqk/static/media/diamont_logo.23536964.svg",
+    "static/media/png.508ff1bf.png": "https://aniyy117.github.io/csb-blyqk/static/media/png.508ff1bf.png",
+    "static/media/windows.e632a90a.svg": "https://aniyy117.github.io/csb-blyqk/static/media/windows.e632a90a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7835dd1.js",
+    "static/js/2.c3255d16.chunk.js",
+    "static/css/main.771c87cb.chunk.css",
+    "static/js/main.561f3850.chunk.js"
+  ]
+}
